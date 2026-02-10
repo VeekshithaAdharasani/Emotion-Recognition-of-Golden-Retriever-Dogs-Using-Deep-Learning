@@ -128,7 +128,3 @@ Google Scholar: https://scholar.google.com/citations?user=D9pPL58AAAAJ&hl=en
 - Sridhar Chintala
 - Deep Shekhar Acharya
 - Rida Shireen
-
-## 🤝 Contributions
-
-Feel free to open issues, share improvements, or suggest enhancements.
